@@ -1,0 +1,17 @@
+#header {
+    height: 75vh;
+    background-image: url("../img/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323733322f312a6d74736b3366515f4252656d466964686b656c3364412e706e67.png");
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+p,h3,li {
+    padding-left: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
